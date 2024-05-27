@@ -3,7 +3,7 @@ module github.com/goravel-kit/cnregion
 go 1.20
 
 require (
-	github.com/goravel/framework v1.13.9
+	github.com/goravel/framework v1.13.10
 	github.com/stretchr/testify v1.9.0
 )
 
